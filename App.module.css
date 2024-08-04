@@ -1,0 +1,50 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.nav {
+  background-color: rgb(3, 2, 0);
+  color: aqua;
+}
+
+.content {
+  display: flex;
+}
+
+.postCard {
+  width: 500px;
+  height: 150px;
+  margin-top: 50px;
+  margin-left: 25px;
+  background-color: aqua;
+}
+
+
+.postCard:hover {
+  background-color: aqua;
+}
+.link {
+  color: red;
+}
+
+.Header {
+  width: 100%;
+}
+.container {
+  width: 100%;
+  margin-top: 500%;
+}
+.Sidebar {
+  height: 100%;
+}
+.p0 {
+  background-color: black;
+  color: beige;
+  width: 250px;
+}
+.p1 {
+  margin-top: 25px;
+}
+.p2:hover {
+  color: aqua;
+}
